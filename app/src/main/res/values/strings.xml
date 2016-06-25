@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Wardrobe</string>
+    <string name="action_settings">Settings</string>
+    <string name="pick_image_intent_text">Choose Image</string>
+    <string name="notification_text">How about choose a nice pair of clothes</string>
+    <string name="err_image_already_added">Image has already been added.</string>
+    <string name="err_not_enough_combinations">Add more clothes to generate combinations</string>
+</resources>
